@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pulkit Shandilya</h1>
+<h1 align="center">Hi , I'm Pulkit Shandilya</h1>
 <h3 align="center">I'm New to All this. . .and I like to Program</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capnbloodbeard&label=Profile%20views&color=0e75b6&style=flat" alt="capnbloodbeard" /> </p>
