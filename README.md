@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I'm currently working on **Dynamic News Website**
-- 🌱 I'm currently learning **Core Java, Advanced Python, Flask, SQL Database**
+- 🌱 I'm currently learning **Advanced Python, Flask, MongoDB Database**
 - 🤝 I'm looking for help with **Open Source Contributions**
 - 💬 Ask me about **Python, Web Development, Databases**
 - 📫 How to reach me: **pulkit.shandilya0609@gmail.com**
