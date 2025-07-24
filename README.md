@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=capnbloodbeard&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/capnbloodbeard?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=pulkit-shandilya&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pulkit-shandilya?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/capnbloodbeard">
+  <a href="https://github.com/pulkit-shandilya">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -79,15 +79,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capnbloodbeard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pulkit-shandilya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=capnbloodbeard&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit-shandilya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capnbloodbeard&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-shandilya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -95,7 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=capnbloodbeard&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pulkit-shandilya&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -103,7 +103,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capnbloodbeard&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkit-shandilya&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
